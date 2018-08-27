@@ -1047,3 +1047,15 @@
     - nutz
     - java
     - jvm
+
+"Node.js + MongoDB + Restgoose":
+  description:
+    Implementation using <a href="https://www.npmjs.com/package/@xureilab/restgoose">Restgoose</a> by <a href="https://github.com/xurei">xurei</a>.
+  sourcecode_url: https://github.com/xurei/restgoose/tree/todo-backend/examples/todo-backend
+  live_url: http://restgoose-todo-backend.herokuapp.com/todos/
+  tags:
+    - restgoose
+    - typegoose
+    - mongodb
+    - node.js
+    - es6
